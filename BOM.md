@@ -10,4 +10,16 @@
 | --- | --- | --- |
 | Week 1 | Tier 1 | $30.00 |
 
-_No parts listed yet._
+## Parts
+
+| Part | Quantity | Unit Price (USD) | Subtotal (USD) |
+| --- | ---: | ---: | ---: |
+| Seeed XIAO ESP32-C3 | 1 | $4.99 | $4.99 |
+| 0.96" 128×64 I2C OLED Display | 1 | $6.99 | $6.99 |
+| MPU6050 (GY-521, 8-pin header) | 1 | $2.50 | $2.50 |
+| DHT11 Temperature and Humidity Sensor | 1 | $2.00 | $2.00 |
+| 10 kΩ Resistor | 1 | $0.05 | $0.05 |
+| Cherry MX Switches | 2 | $1.00 | $2.00 |
+| **Estimated Total** | | | **$18.53** |
+
+*Note: Prices marked as estimates may vary by seller. Shipping costs are not included.*
