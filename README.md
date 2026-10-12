@@ -1,6 +1,8 @@
 # Starbie
 
 Um bichinho virtual numa placa de circuito impresso feita no KiCad. O Starbie anda numa tela OLED, reage a toques nos botões e ao movimento da placa, e mostra a temperatura e a umidade do ambiente.
+<img width="1222" height="851" alt="image" src="https://github.com/user-attachments/assets/df7b532e-4272-41ce-80f2-56daa018be7d" />
+
 
 ## O que ele faz
 
