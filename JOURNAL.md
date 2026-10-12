@@ -4,7 +4,7 @@ Um bichinho virtual minúsculo, controlado por movimento: basicamente um Tamagot
 
 | Semana | Tier | Horas registradas | Entradas |
 |---|---|---|---|
-| Semana 1 | Tier 1 | _preencha_ | 1 |
+| Semana 1 | Tier 1 | 8hr | 1 |
 
 ---
 
